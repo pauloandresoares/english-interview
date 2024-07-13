@@ -128,13 +128,69 @@ One of my weaknesses is that I tend to be a perfectionist. Over the years, I hav
 
 ## Conectors
 - **For example**: Por exemplo.
-- **Because**: Porque.
-- **So**: Então, por isso.
-- **Additionally**: Além disso.
-- **However**: No entanto.
-- **Therefore**: Portanto.
+  - "I like to keep up with industry trends. For example, I recently attended a tech conference."
 
-## Expressões Idiomáticas
+- **Because**: Porque. (As, since, due to)
+  - "I focus on clear communication because it is crucial for team success."
+  - "As it was raining, we decided to stay indoors."
+  - "Since the project was urgent, we worked extra hours."
+
+- **So**: Então, por isso. (Therefore, thus, consequently)
+  - "I completed the training, so I am now certified."
+  - "The deadline is tomorrow; therefore, we must finish today."
+  - "The new policy was implemented; thus, we need to follow it."
+
+- **Additionally**: Além disso. (Moreover, besides, furthermore)
+  - "I enjoy coding. Additionally, I like mentoring junior developers."
+  - "She is a great leader. Moreover, she is very approachable."
+  - "He is skilled in Python. Besides, he knows JavaScript."
+
+- **However**: No entanto. (Nonetheless, nevertheless, but)
+  - "I usually work remotely. However, I can come to the office if needed."
+  - "The task was difficult. Nonetheless, we completed it on time."
+  - "It was raining. Nevertheless, we decided to go out."
+
+- **Therefore**: Portanto. (Thus, hence, consequently)
+  - "The project was delayed; therefore, we need to extend the deadline."
+  - "She explained the problem clearly; thus, everyone understood it."
+  - "The system was upgraded; hence, the performance improved."
+
+- **For instance**: Por exemplo.
+  - "I like to stay updated with the latest trends. For instance, I read tech blogs and attend webinars regularly."
+
+- **As**: Como, enquanto, à medida que.
+  - "As the meeting started, everyone settled down."
+  - "He works as a software engineer."
+
+- **Since**: Desde, já que.
+  - "I have taken multiple courses since continuous learning is important to me."
+  - "Since you are here, let's start the discussion."
+
+- **Thus**: Assim, deste modo.
+  - "I manage my time effectively, thus improving my productivity."
+
+- **Moreover**: Além disso, aliás.
+  - "I enjoy working in teams. Moreover, I believe collaboration leads to better outcomes."
+
+- **Besides**: Além disso.
+  - "I am skilled in Java. Besides, I have experience with PHP and Python."
+
+- **Nonetheless**: No entanto, todavia.
+  - "I had limited time to complete the project. Nonetheless, I delivered it on time."
+
+- **Nevertheless**: No entanto, contudo.
+  - "The project was challenging. Nevertheless, we managed to meet the deadline."
+
+- **Hence**: Daí, por isso, portanto.
+  - "I focus on improving my skills. Hence, I regularly take part in professional development activities."
+
+- **Consequently**: Consequentemente.
+  - "I pay attention to detail. Consequently, the projects I work on are high quality."
+
+- **Bear in mind**: Tenha em mente.
+  - "Bear in mind that communication is key to team success."
+
+## Idiomatic expressions
 - **Wear many hats**: Desempenhar várias funções.
 - **Cutting-edge technologies**: Tecnologias de ponta.
 - **Stay on track**: Manter-se no caminho.
