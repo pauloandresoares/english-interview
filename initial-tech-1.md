@@ -1,4 +1,3 @@
-```markdown
 [<< BACK ](README.md)
 
 # Tech Interview - Part 1
@@ -127,4 +126,3 @@
 - **Learn continuously and seek feedback**: Aprenda continuamente e procure feedback.
 
 [<< BACK ](README.md)
-```
