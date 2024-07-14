@@ -1,6 +1,6 @@
 [<< BACK ](README.md)
 
-# Initial Interview 1
+# Initial Interview - Part 1
 
 ## 1. Tell me about yourself.
 **Answer:**
@@ -10,7 +10,7 @@
 **Answer:**
 "I am interested in this position because it aligns with my career goals and offers an opportunity to work with cutting-edge technologies. I have extensive experience in software architecture and development, and I believe my skills can significantly contribute to your team. Additionally, I am impressed by the company's commitment to innovation and continuous improvement, which matches my personal values and professional aspirations."
 
-## 3. Can you describe your past experience in the industry?
+## 3. Can you describe your past experience in the industry? / Could you share some details about your professional background?
 **Answer:**
 "I have worked in the software development industry for over 15 years, starting as a programmer and gradually moving into leadership roles. I have experience working with financial institutions, educational companies, and telecommunications firms, as well as healthcare, government, and legal sectors. I have worked as a full-stack developer, software architect, and solutions architect. In these roles, I designed system architectures, led development teams, and ensured high-quality project delivery. My technical skills include proficiency in Java, PHP, Node.js, and Python, among others. Additionally, I have developed strong soft skills in communication, teamwork, and problem-solving, which help me collaborate effectively with different teams and stakeholders."
 

@@ -7,5 +7,4 @@
 
 ## Tech Interview
 
-- [Tech Interview - Wordpress](initial-interview-1.md)
-- [Tech Interview - Fullstack](initial-interview-2.md)
+- [Tech Interview - General](initial-tech-1.md)
