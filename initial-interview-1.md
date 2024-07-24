@@ -71,13 +71,6 @@ Another case at my current job at AGU involved fixing serious slowdowns in a cri
 
 One of my weaknesses is that I tend to be a perfectionist. Over the years, I have developed skills to balance this by setting realistic goals and deadlines. For critical projects involving high risk, I increase my attention to detail, which might slow me down slightly but ensures high-quality delivery. Besides perfectionism, I am also constantly working on improving my communication and time management skills. By managing my perfectionism, I can deliver projects efficiently while maintaining high standards."
 
-## Support Texts:
-
-"Since our last conversation, I had the opportunity to work at some large companies in Brazil. I worked at a big telecommunications company as a solutions architect and, currently, I am working as a full-stack developer. I am really enjoying working as a programmer."
-
-"In our last conversation, if I remember correctly, the position was for a software architect. I would like to know if this interview is for a specific position or more of a conversation to understand my profile for a future role. In the past year, I have worked on large projects, both as a solutions architect and as a full-stack developer. Currently, I am looking more for programmer positions."
-
-
 ## Greatest strengths
 - **Adapt quickly to new technologies**: Ser capaz de aprender e se ajustar rapidamente a novas tecnologias.
 - **Strong problem-solving skills**: Habilidade para resolver problemas de maneira eficiente.
@@ -89,7 +82,11 @@ One of my weaknesses is that I tend to be a perfectionist. Over the years, I hav
 - **Time management**: Gestão do tempo, importante para balancear a atenção aos detalhes com a eficiência.
 - **Seeking guidance from colleagues**: Procurar orientação de colegas, útil para melhorar habilidades onde se tem fraqueza.
 
+## Support Texts
 
+"Since our last conversation, I had the opportunity to work at some large companies in Brazil. I worked at a big telecommunications company as a solutions architect and, currently, I am working as a full-stack developer. I am really enjoying working as a programmer."
+
+"In our last conversation, if I remember correctly, the position was for a software architect. I would like to know if this interview is for a specific position or more of a conversation to understand my profile for a future role. In the past year, I have worked on large projects, both as a solutions architect and as a full-stack developer. Currently, I am looking more for programmer positions."
 
 # Vocabulary
 
