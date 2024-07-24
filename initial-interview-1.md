@@ -4,19 +4,20 @@
 
 ## 1. Tell me about yourself.
 **Answer:**
-"My name is Paulo André, and I am from Brasilia, Brazil. I am passionate about programming and love staying up-to-date with the latest technologies and industry trends. I enjoy solving complex problems and constantly strive to improve my skills. Outside of work, I like to travel, spend time with my family, and learn new languages."
 
-## 2. Why are you interested in this position?
-**Answer:**
-"I am interested in this position because it aligns with my career goals and offers an opportunity to work with cutting-edge technologies. I have extensive experience in software architecture and development, and I believe my skills can significantly contribute to your team. Additionally, I am impressed by the company's commitment to innovation and continuous improvement, which matches my personal values and professional aspirations."
+"My name is Paulo André, and I am from Brasilia, Brazil. I am passionate about technology and I love programming. I enjoy staying up-to-date with the latest technologies and industry trends. I enjoy solving complex problems and constantly strive to improve my skills. Outside of work, I like to travel, spend time with my family, and learn new languages."
 
-## 3. Can you describe your past experience in the industry? / Could you share some details about your professional background?
+## 2. Can you describe your past experience in the industry? / Could you share some details about your professional background?
 **Answer:**
-"I have worked in the software development industry for over 15 years, starting as a programmer and gradually moving into leadership roles. I have experience working with financial institutions, educational companies, and telecommunications firms, as well as healthcare, government, and legal sectors. I have worked as a full-stack developer, software architect, and solutions architect. In these roles, I designed system architectures, led development teams, and ensured high-quality project delivery. My technical skills include proficiency in Java, PHP, Node.js, and Python, among others. Additionally, I have developed strong soft skills in communication, teamwork, and problem-solving, which help me collaborate effectively with different teams and stakeholders."
+"I have been working in the software development industry for over 15 years, starting as a programmer and gradually moving into leadership roles. I have experience working with financial institutions, educational companies, and telecommunications firms, as well as healthcare, government, and legal sectors. I have worked as a full-stack developer, software architect, and solutions architect. In these roles, I designed system architectures, led development teams, and ensured high-quality project delivery. My technical skills include proficiency in Java, PHP, Node.js, and Python, among others. Additionally, I have developed strong soft skills in communication, teamwork, and problem-solving, which help me collaborate effectively with different teams and stakeholders."
 
-## 4. Explain the scope of your current role.
+## 3. Explain the scope of your current role.
 **Answer:**
-"In my current role as a full-stack developer at AGU, General Legal Office of Brazil, which is considered the largest law firm in the world, I work on a critical system that manages approximately 300 million legal cases in its database. The technologies we use include PHP, Java, and Angular with Redux for state management. My responsibilities involve developing and maintaining the system, ensuring its performance and reliability. Throughout my career, I have also taken on roles such as software architect and solutions architect, where I designed system architectures, led development teams, and ensured high-quality project delivery."
+"I have over 15 years of experience in software development, starting as a programmer and moving into leadership roles. My experience is multi-faceted, and my skills are versatile. I have worked with financial institutions, educational companies, telecommunications firms, healthcare, government, and legal sectors. I have been a full-stack developer, software architect, and solutions architect. I designed system architectures, led development teams, and ensured high-quality project delivery. My technical skills include Java, PHP, Node.js, and Python. I also have strong soft skills in communication, teamwork, and problem-solving, which help me work well with different teams and stakeholders."
+
+## 4. Why do you want to leave your current job?
+Answer:
+"I have a long period of experience and have worked on many projects in Brazil. After the pandemic, remote work opportunities have increased, and I see this as a chance to work on international projects and collaborate with people from different cultures. I believe this would be a great professional experience and aligns with my current career goals."
 
 ## 5. What are your future goals and why are you interested in this position?
 **Answer:**
@@ -29,17 +30,20 @@ Answer:
 
 ## 7. Can you give an example of a time when you had to learn a new technology quickly? How did you approach it?
 
-"As I gained experience over the years, I found it easier to learn new technologies and methodologies. I worked on various projects, which helped me develop strong learning skills. For example, when I needed to learn a new technology, I would start by researching and reading official documentation. I would then practice by building small projects and seek advice from colleagues who were familiar with the technology. This approach helped me quickly become proficient in new tools and techniques."
+"As I gained experience over the years, I found it easier to learn new technologies and methodologies. I worked on various projects, which helped me develop strong learning skills. For example, when I needed to learn a new technology, I would start by researching and reading official documentation. I would then practice by building small projects and seek advice from colleagues who were familiar with the technology. This approach helped me quickly become proficient in new tools and techniques.
+
+In the beginning of my career, I had a hard time learning new technologies quickly. But over time, with my experience, my mind became faster at learning. For instance, two years ago, I needed to work on a project that used Python. I got fluency in this programming language in about two weeks. Learning a new programming language becomes easier when you already know others because you understand the core concepts."
 
 ## 8. How do you handle feedback and criticism?
 **Answer:**
-"I view feedback and criticism as opportunities for growth. When receiving feedback, I listen carefully and ask clarifying questions to fully understand the perspective. I reflect on the feedback and identify specific areas for improvement." 
+"I view feedback and criticism as opportunities for growth. When receiving feedback, I listen carefully and ask clarifying questions to fully understand the perspective. I reflect on the feedback and identify specific areas for improvement."
 
 ## 9. What is a significant achievement in your career so far?
 **Answer:**
-"One significant achievement was developing a dynamic form with 465 questions and multiple dashboards for strategic decision-making. The problem was the high complexity and a tight deadline due to an upcoming event. I negotiated with the company's leadership to assemble a team and managed the entire delivery cycle, from planning to coding. Besides managing, I also programmed the system. The result was a successful on-time delivery, demonstrating my leadership and technical skills.
 
-Another case at my current job at AGU involved solving severe system slowdowns. The system required heavy batch processing, and its performance issues affected user experience. I identified problems like repeated service calls, inefficient database queries, and improper use of Angular components, including misuse of the garbage collector due to poor lifecycle management. After optimization, we achieved a 60% improvement in performance, significantly enhancing the system's efficiency."
+"One significant achievement was developing a dynamic form with 465 questions and multiple dashboards for strategic decision-making. The problem was the high complexity and a tight deadline due to an upcoming event. I talked with the company's leadership to put together a team and managed the whole process, from planning to coding. Besides managing, I also programmed the system. This required both hard skills in coding and system architecture, and soft skills in leadership, project management, and communication. The result was a successful on-time delivery, showing my leadership and technical skills.
+
+Another case at my current job at AGU involved fixing serious slowdowns in a critical system with many integrations and a lot of users. The system had to process a lot of data at once, which was slowing it down and making it hard for users to use. I found problems like repeated service calls, bad database queries, and wrong use of Angular components, including poor garbage collector management. After fixing these, we improved performance by 60%, making the system much better. This required hard skills in performance analysis, database optimization, and code refactoring, as well as soft skills in problem-solving and technical communication."
 
 ## 10. How do you stay updated with the latest industry trends and technologies?
 **Answer:**
@@ -67,6 +71,13 @@ Another case at my current job at AGU involved solving severe system slowdowns. 
 
 One of my weaknesses is that I tend to be a perfectionist. Over the years, I have developed skills to balance this by setting realistic goals and deadlines. For critical projects involving high risk, I increase my attention to detail, which might slow me down slightly but ensures high-quality delivery. Besides perfectionism, I am also constantly working on improving my communication and time management skills. By managing my perfectionism, I can deliver projects efficiently while maintaining high standards."
 
+## Support Texts:
+
+"Since our last conversation, I had the opportunity to work at some large companies in Brazil. I worked at a big telecommunications company as a solutions architect and, currently, I am working as a full-stack developer. I am really enjoying working as a programmer."
+
+"In our last conversation, if I remember correctly, the position was for a software architect. I would like to know if this interview is for a specific position or more of a conversation to understand my profile for a future role. In the past year, I have worked on large projects, both as a solutions architect and as a full-stack developer. Currently, I am looking more for programmer positions."
+
+
 ## Greatest strengths
 - **Adapt quickly to new technologies**: Ser capaz de aprender e se ajustar rapidamente a novas tecnologias.
 - **Strong problem-solving skills**: Habilidade para resolver problemas de maneira eficiente.
@@ -77,6 +88,8 @@ One of my weaknesses is that I tend to be a perfectionist. Over the years, I hav
 - **Perfectionism**: Tendência a querer que tudo seja perfeito, o que pode afetar a produtividade.
 - **Time management**: Gestão do tempo, importante para balancear a atenção aos detalhes com a eficiência.
 - **Seeking guidance from colleagues**: Procurar orientação de colegas, útil para melhorar habilidades onde se tem fraqueza.
+
+
 
 # Vocabulary
 
