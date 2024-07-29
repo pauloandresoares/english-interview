@@ -42,6 +42,26 @@
 **Answer:**
 "I handle conflicts within a team by addressing them openly and respectfully. I listen to each person's perspective and try to understand the root cause of the conflict. I then facilitate a discussion to find common ground and work towards a solution that satisfies everyone. By promoting open communication and focusing on the team's goals, I help resolve conflicts and maintain a positive working environment."
 
+## 26. How do you assess software's quality?
+**Answer:**
+"I assess software quality by focusing on several key areas. First, I check the code's clarity and organization, ensuring it is easy to read and maintain. Using methodologies like TDD (Test-Driven Development) can help guide the development process by providing a clear framework for creating clean and efficient code. I also run unit tests and integration tests to catch bugs and errors. Additionally, I evaluate the software's performance, including its speed and responsiveness. User feedback is also important to ensure the software meets their needs. Finally, I review the documentation to make sure it's clear and complete. By focusing on these aspects, I can help ensure the software is high quality and reliable."
+
+## 27. How do you ensure your code is maintainable?
+**Answer:**
+"I ensure my code is maintainable by following best practices like writing clear and consistent code, using meaningful variable names, and adding comments where necessary. I also keep the code modular, breaking it into small, manageable functions or classes. Regular code reviews with the team help catch issues early and maintain a high standard."
+
+## 28. How do you handle performance optimization in software development?
+**Answer:**
+"I handle performance optimization by first profiling the software to identify bottlenecks. I then focus on optimizing the most critical parts, like database queries or algorithm efficiency. Additionally, I use caching, optimize data structures, and minimize resource-intensive operations to improve overall performance."
+
+## 29. Can you briefly explain Agile methodologies and your experience with Scrum and Kanban?
+**Answer:**
+"I've worked with Scrum for many years; it's a great methodology that has helped me achieve excellent results. Scrum's structured approach, with its sprints and regular meetings, is effective for managing complex projects. However, over the years, I've specialized in Kanban and have grown to appreciate its versatility. Kanban's visual workflow and flexibility allow for continuous delivery and better handling of changing priorities. It also incorporates the concept of Kaizen, or continuous improvement, which helps in consistently enhancing processes and workflows. This approach has been particularly useful in projects where requirements frequently evolve, and we need to adapt quickly."
+
+## 30. How do you approach cloud computing, DevOps, and Kubernetes in your work?
+**Answer:**
+"I use cloud computing for scalable and efficient resource management. In my work with DevOps, I focus on automating deployment, testing, and monitoring processes to ensure fast and reliable delivery. I have a good experience with Docker and Kubernetes, primarily in on-premises environments, where I've managed containerized applications, allowing for easy scaling and maintenance. Recently, I've been dedicating time to learning more about cloud services like AWS, Azure, and others, to broaden my knowledge and capabilities in cloud environments."
+
 # Vocabulary
 
 ### General Terms

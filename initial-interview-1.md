@@ -17,6 +17,12 @@
 
 ## 4. Why do you want to leave your current job?
 Answer:
+
+"My current job poses many advantages, but... throughout my career I'm just working in Brazil
+I want a taste of a more diverse working environment"
+
+(If necessary: .. ) 
+
 "I have a long period of experience and have worked on many projects in Brazil. After the pandemic, remote work opportunities have increased, and I see this as a chance to work on international projects and collaborate with people from different cultures. I believe this would be a great professional experience and aligns with my current career goals."
 
 ## 5. What are your future goals and why are you interested in this position?
@@ -137,8 +143,6 @@ One of my weaknesses is that I tend to be a perfectionist. Over the years, I hav
 - **Catch up**: Alcançar, atualizar-se.
 
 ## Conectors
-- **For example**: Por exemplo.
-  - "I like to keep up with industry trends. For example, I recently attended a tech conference."
 
 - **Because**: Porque. (As, since, due to)
   - "I focus on clear communication because it is crucial for team success."
