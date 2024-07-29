@@ -13,7 +13,7 @@
 
 ## 3. Explain the scope of your current role.
 **Answer:**
-"I have over 15 years of experience in software development, starting as a programmer and moving into leadership roles. My experience is multi-faceted, and my skills are versatile. I have worked with financial institutions, educational companies, telecommunications firms, healthcare, government, and legal sectors. I have been a full-stack developer, software architect, and solutions architect. I designed system architectures, led development teams, and ensured high-quality project delivery. My technical skills include Java, PHP, Node.js, and Python. I also have strong soft skills in communication, teamwork, and problem-solving, which help me work well with different teams and stakeholders."
+"In my current role as a full-stack developer at AGU, General Legal Office of Brazil, which is considered the largest law firm in the world, I work on a critical system that manages approximately 300 million legal cases in its database. The technologies we use include PHP, Java, and Angular with Redux for state management. My responsibilities involve developing and maintaining the system, ensuring its performance and reliability. Throughout my career, I have also taken on roles such as software architect and solutions architect, where I designed system architectures, led development teams, and ensured high-quality project delivery."
 
 ## 4. Why do you want to leave your current job?
 Answer:
