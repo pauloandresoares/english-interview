@@ -9,7 +9,9 @@
 
 ## 2. Can you describe your past experience in the industry? / Could you share some details about your professional background?
 **Answer:**
-"I have been working in the software development industry for over 15 years, starting as a programmer and gradually moving into leadership roles. I have experience working with financial institutions, educational companies, and telecommunications firms, as well as healthcare, government, and legal sectors. I have worked as a full-stack developer, software architect, and solutions architect. In these roles, I designed system architectures, led development teams, and ensured high-quality project delivery. My technical skills include proficiency in Java, PHP, Node.js, and Python, among others. Additionally, I have developed strong soft skills in communication, teamwork, and problem-solving, which help me collaborate effectively with different teams and stakeholders."
+"I have been working in the software development industry for over 15 years, I have experience working with financial institutions, educational companies, telecommunications companies, advertising companies, and Brazilian government organizations. Throughout my career, I have been developing my soft and hard skills to understand the entire development flow.
+
+Over the years, I've worn many hats/(I wore many hats), working as a full-stack developer, software architect, and solutions architect. In these roles, I always I tried to improve my skills and ensure the delivery of high-quality projects. My technical skills include proficiency in Java, PHP, Node.js, and Python among other technologies, methodologies and frameworks. Additionally, I have developed strong social skills in communication, teamwork, and problem-solving, which help me collaborate effectively with different teams and stakeholders."
 
 ## 3. Explain the scope of your current role.
 **Answer:**
